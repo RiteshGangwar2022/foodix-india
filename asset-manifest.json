@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RiteshGangwar2022/foodix-india.git/static/css/main.441fccf2.css",
+    "main.js": "/RiteshGangwar2022/foodix-india.git/static/js/main.93a298d2.js",
+    "static/js/787.75482286.chunk.js": "/RiteshGangwar2022/foodix-india.git/static/js/787.75482286.chunk.js",
+    "static/media/masala.jpg": "/RiteshGangwar2022/foodix-india.git/static/media/masala.f4dd64f4906d42ddcbdb.jpg",
+    "static/media/banner.jpg": "/RiteshGangwar2022/foodix-india.git/static/media/banner.01100bac16928d9cc046.jpg",
+    "static/media/chhola.jpg": "/RiteshGangwar2022/foodix-india.git/static/media/chhola.a1458ef1370699c23212.jpg",
+    "static/media/paneer.jpg": "/RiteshGangwar2022/foodix-india.git/static/media/paneer.f04d2c563fe596463e47.jpg",
+    "static/media/idli.jpg": "/RiteshGangwar2022/foodix-india.git/static/media/idli.dc2d98fda6c7a903c64b.jpg",
+    "static/media/gujrati.jpeg": "/RiteshGangwar2022/foodix-india.git/static/media/gujrati.77bd2d3baa11e6cf3dcd.jpeg",
+    "static/media/dosa.jpg": "/RiteshGangwar2022/foodix-india.git/static/media/dosa.5c938f456ea86779ba13.jpg",
+    "static/media/logo.jpeg": "/RiteshGangwar2022/foodix-india.git/static/media/logo.7ae2a93ccd911b6a4539.jpeg",
+    "index.html": "/RiteshGangwar2022/foodix-india.git/index.html",
+    "main.441fccf2.css.map": "/RiteshGangwar2022/foodix-india.git/static/css/main.441fccf2.css.map",
+    "main.93a298d2.js.map": "/RiteshGangwar2022/foodix-india.git/static/js/main.93a298d2.js.map",
+    "787.75482286.chunk.js.map": "/RiteshGangwar2022/foodix-india.git/static/js/787.75482286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441fccf2.css",
+    "static/js/main.93a298d2.js"
+  ]
+}
